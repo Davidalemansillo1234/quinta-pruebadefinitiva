@@ -372,18 +372,7 @@ img{
         right: auto;
         position: relative;
         box-sizing: border-box;
-            background:#FF6B2B;
-    border:1px solid #ece2d6;
-    border-radius:12px;
-    padding:18px;
-    margin-top:20px;
-    width:100%;
-    line-height:1.8;
-    font-size:16px;
-    color:#1b1b1b;
-    text-align:left;
-    position: relative;
-    right: 30px;
+
 }
 
 .btn-primary{
